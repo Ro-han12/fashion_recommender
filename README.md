@@ -1,7 +1,7 @@
 # fashion_recommender
 END TO END DEEP LEARNING RECOMMENDER SYSTEM
 
-# Kidney-Disease-Classification-MLflow-DVC
+# FASHION-RECOMMENDATION-SYSTEM-MLflow-DVC
 
 
 ## Workflows
@@ -28,11 +28,11 @@ https://github.com/Ro-han12/fashion_recommender
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n fashion python=3.8 -y
 ```
 
 ```bash
-conda activate cnncls
+conda activate fashion
 ```
 
 
