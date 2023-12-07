@@ -3,7 +3,7 @@ END TO END DEEP LEARNING SPORTS INDENTIFACTION SYSTEM
 
 # SPORTS-INDENTIFACTION-SYSTEM-DVC
 
-## DATASET-> https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset/
+## DATASET-> https://www.kaggle.com/datasets/gpiosenka/sports-classification/code
 
 
 ## Workflows
