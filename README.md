@@ -25,16 +25,16 @@ END TO END DEEP LEARNING SPORTS INDENTIFACTION SYSTEM
 Clone the repository
 
 ```bash
-https://github.com/Ro-han12/fashion_recommender
+https://github.com/Ro-han12/sport_classifier.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n fashion python=3.8 -y
+conda create -n sport python=3.8 -y
 ```
 
 ```bash
-conda activate fashion
+conda activate sport
 ```
 
 
